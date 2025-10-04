@@ -1,0 +1,11 @@
+Basic html structure 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic HTML Structure</title>
+</head>
+<body>
+  <h1>Hello World</h1>
+  <p>This is my very first HTML page.</p>
+</body>
+</html>
