@@ -1,0 +1,15 @@
+Images.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Car Image Example</title>
+</head>
+<body>
+
+  <h1>My Car</h1>
+
+  <img src="https://images.unsplash.com/photo-1503736334956-4c8f8e92946d" 
+       alt="Luxury Car" width="400">
+
+</body>
+</html>
