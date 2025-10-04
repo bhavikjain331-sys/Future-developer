@@ -1,0 +1,18 @@
+Links.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Links Example</title>
+</head>
+<body>
+    <h1>Links in HTML</h1>
+
+    <p>This is a link to <a href="https://www.google.com" target="_blank">Google</a>.</p>
+
+    <p>This is a link to <a href="https://github.com" target="_blank">GitHub</a>.</p>
+
+    <p>This is a link to <a href="02-headings.html">My Headings Page</a> (internal link).</p>
+
+    <p>This is a link to <a href="03-paragraph.html">My Paragraph Page</a> (internal link).</p>
+</body>
+</html>
